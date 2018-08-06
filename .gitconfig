@@ -1,0 +1,12 @@
+[user]
+	username = sturobson
+	name = Stuart Robson
+	location = Salisbury, Wiltshire, SP11JD
+	website = www.alwaystwisted.com
+	signingkey = 043F2AAA9436CB8E6570801E61180327A93E02DD
+[commit]
+	gpgsign = true
+[aliases]
+	npm = sturobson
+	github = sturobson
+	mit = sturobson
